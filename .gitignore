@@ -10,7 +10,8 @@
 !/Visual Studio/*.vcxproj.user
 !/Visual Studio/*.vcxproj.filters
 !/Visual Studio/scripts/
-
+!/Assets
+!/Shaders
 # Application
 
 !/libs
